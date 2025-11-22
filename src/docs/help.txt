@@ -1,0 +1,13 @@
+Usage: help [options]
+
+Options:
+  help
+  scan
+
+Examples:
+  scan --help
+  
+
+Run one of the commands listed in the [Options] section above. For more 
+specific information about each module, pass the --help flag to them.
+
